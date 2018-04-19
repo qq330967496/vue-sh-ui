@@ -1,0 +1,22 @@
+{
+  "name": "vue-sh-ui",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/sh-ui.js",
+  "scripts": {},
+  "keywords": [
+    "ui",
+    "vue"
+  ],
+  "author": "severho",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "gulp-util": "^3.0.7",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "vue": "^2.0.3",
+    "babel-loader": "^6.0.0"
+  },
+  "devDependencies": {}
+}
